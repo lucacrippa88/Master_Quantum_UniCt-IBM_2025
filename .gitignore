@@ -2,12 +2,6 @@
 .DS_Store
 **/.DS_Store
 
-# Ignore the Solutions folder (case-sensitive)
-Solutions/*
-
-# Ignore any file with 'solution' in its name (case-insensitive)
-*[Ss]olution*
-
 # Ignore common backup files
 *~ 
 *.bak
